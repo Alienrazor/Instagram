@@ -1,3 +1,9 @@
+
+
+
+```
+
+
 pkg up
 pkg upgrade
 pip install requests 
@@ -8,3 +14,6 @@ pkg install git
 git clone https://github.com/Alienrazor/Instagram
 cd Instagram
 python Instagram.py
+
+
+```
